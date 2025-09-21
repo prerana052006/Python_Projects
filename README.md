@@ -2,7 +2,7 @@
 This repository contains simple Python projects for beginners. Each project helps in learning basic Python concepts like functions, loops, conditionals, and user input.
 
 Projects
-1. Calculator.py
+**1. Calculator.py**
 A simple calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Features:
@@ -13,7 +13,7 @@ Performs calculation
 
 Displays result
 
-2. Rock_Paper_Scissors.py
+**2. Rock_Paper_Scissors.py**
 A fun game where you can play Rock-Paper-Scissors against the computer.
 
 Features:
@@ -24,7 +24,7 @@ Random computer choice
 
 Declares winner
 
-3. ToDoList.py
+**3. ToDoList.py**
 A basic To-Do List application to manage daily tasks.
 
 Features:
@@ -34,3 +34,21 @@ Add tasks
 View tasks
 
 Delete tasks
+
+**How to Run**
+
+Install Python.
+
+Clone or download this repository.
+
+**Run the project you want**
+
+python Calculator.py
+python Rock_Paper_Scissors.py
+python ToDoList.py
+
+**Future Improvements**
+
+Add GUI (Graphical User Interface)
+
+Save data to files or database
